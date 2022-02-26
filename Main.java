@@ -6,6 +6,10 @@ public class Main{
         System.out.println("F");
         System.out.println("C");
         System.out.println("D");
+<<<<<<< HEAD
         System.out.println("Feature B");
+=======
+        System.out.println("Feature A");
+>>>>>>> featureA
     }
 }
